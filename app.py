@@ -4,7 +4,7 @@ import base64
 from helpers import parse_cv, extract_keywords
 
 OPENROUTER_API_URL = "https://openrouter.ai/api/v1/chat/completions"
-OPENROUTER_API_KEY = "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"
+OPENROUTER_API_KEY = "API_KEY"
 
 st.set_page_config(page_title="AutoHire", layout="centered")
 
